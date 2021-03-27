@@ -4,7 +4,7 @@ This is a fun project. Here we have created a simple Age Calculator which will t
 
 Output screenshot are provided.
 
-You can run the code in any platform... we have performed it in Jupiter Notebook.
+You can run the code in any platform... we have performed it in Jupyter Notebook.
 
 We have used tkinter library.
 
